@@ -1,6 +1,6 @@
 <h1><b> 🧑‍🏫 CLINTON MUKOLWE</b></h1>
 
-<h2>Data Science & AI | Cloud Computing |Data Engineer  </h2>
+<h2>Data Science & AI </h2>
 
 <h3><b>🎓 About Me...</b></h3>
 <p>I'm a passionate<b> Data Analyst </b>and an  expertise in <b>Data Visualization</b> with background in statistics and mathematics. Am also </p>
