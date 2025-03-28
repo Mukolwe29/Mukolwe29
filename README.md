@@ -22,5 +22,5 @@
 <p> <b>Email: </b>mukolwekhoba@gmail.com</p>
 
 <h3><b>🧑‍💻😂 Fun Fact</b></h3>
-<p> I’ve solved data problems while wearing pajamas at 3 AM and still delivered on time. Remote work has turned me into a professional in both problem-solving and coffee consumption</p>
+<p> I’ve solved data problems while wearing pajamas at 3 AM and still delivered on time. Remote work has turned me into a professional in both problem-solving and coffee consumption😂</p>
 
