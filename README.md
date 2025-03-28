@@ -3,7 +3,7 @@
 <h2>Data Science & AI </h2>
 
 <h3><b>🎓 About Me...</b></h3>
-<p>I'm a passionate<b> Data Analyst </b>and an  expertise in <b>Data Visualization</b> with background in statistics and mathematics.</p>
+<p> I am a detail oriented Data scientist and have a lot  of taste in AI. I believe iam the best in how do you do situations when it comes to drawing patterns from data </p>
 
 
 <h3><b>🌟 Other Skills</b></h3>
