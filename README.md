@@ -1,11 +1,10 @@
-           **CLINTON MUKOLWE**
+<h1><b>CLINTON MUKOLWE</b></h1>
 
-Data Visualization Enthusiast | Cloud Computing Specialist | Database Expert |R Programming Expert
+<h2>Data Visualization Enthusiast | Cloud Computing Specialist | Database Expert & R Programming Expert</h2>
 
-<!--
-**Mukolwe29/Mukolwe29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3><b>About Me...</b></h3>
+<p>I'm a passionate<b> Data Analyst </b>and an  expertise in <b>Data Visualization</b> with background in statistics and mathematics. Am also </p>
 
-Here are some ideas to get you started:
 
 - 
 - 🌱 I’m currently learning ...
