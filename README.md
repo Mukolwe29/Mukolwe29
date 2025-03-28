@@ -1,4 +1,6 @@
-CLINTON MUKOLWE  Data Visualization Enthusiast | Cloud Computing Specialist | Database Expert |R Programming Expert
+           **CLINTON MUKOLWE**
+
+Data Visualization Enthusiast | Cloud Computing Specialist | Database Expert |R Programming Expert
 
 <!--
 **Mukolwe29/Mukolwe29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
